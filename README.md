@@ -7,4 +7,4 @@
 
 수정
 
-![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpgg)
+![확률 vs 우도](./images/Probability vs Likelihoods.PNG)
