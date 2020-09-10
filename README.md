@@ -7,4 +7,4 @@
 
 수정
 
-![확률 vs 우도](./images/Probability vs Likelihoods.PNG)
+![확률vs우도](./images/test.jpg)
